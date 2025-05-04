@@ -122,7 +122,7 @@ export default function Home() {
                 name="textPrompt"
                 render={({ field }) => (
                   <FormItem>
-                    <FormLabel className="text-foreground font-medium">Your Content Idea</FormLabel>
+                    <FormLabel className="text-foreground font-semibold">Your Content Idea</FormLabel>
                     <FormControl>
                       <Textarea
                         placeholder="Enter your text, idea, or existing content here..."
@@ -142,7 +142,7 @@ export default function Home() {
                     <FormLabel className="text-foreground font-medium">Target Platform</FormLabel>
                     <Select onValueChange={field.onChange} defaultValue={field.value}>
                       <FormControl>
-                        <SelectTrigger className="w-full bg-card border-input focus:ring-accent focus:border-accent">
+                        <SelectTrigger className="w-full bg-card border-input focus:ring-primary focus:border-primary">
                           <SelectValue placeholder="Select a platform" />
                         </SelectTrigger>
                       </FormControl>

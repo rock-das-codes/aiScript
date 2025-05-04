@@ -45,7 +45,7 @@ const generateScriptPrompt = ai.definePrompt({
   },
   prompt: `You are an expert script writer, adept at tailoring content for various social media platforms.
 
-  Based on the provided text prompt, generate a script optimized for the specified platform.
+  Based on the provided text prompt, generate a script optimized for the specified platform.You also provide recommended music name for the script and also provide a prompt for ai music.
 
   Text Prompt: {{{textPrompt}}}
   Platform: {{{platform}}}
