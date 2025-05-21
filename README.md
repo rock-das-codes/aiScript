@@ -13,9 +13,7 @@
 - ✍️ Generate scripts using state-of-the-art AI (powered by Genkit and GoogleAI).
 - 🎬 Ideal for YouTubers, podcasters, educators, and marketers.
 - ⚡ Fast, intuitive, and modern UI (Next.js + React).
-- 🔒 Secure authentication and cloud integration (Firebase).
-- 🎨 Beautiful design with Radix UI and Tailwind CSS.
-- 📊 Visualize and manage your scripts with charts and advanced forms.
+
 
 ---
 
