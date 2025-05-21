@@ -1,6 +1,4 @@
-Here’s a draft README for your project, “ScriptifyAI”, an AI scriptwriter. This includes a project description, live demo, features, setup instructions (based on your dependencies), and credits.
 
----
 
 # ScriptifyAI
 
@@ -93,6 +91,3 @@ MIT
 
 Built by [rock-das-codes](https://github.com/rock-das-codes)
 
----
-
-Let me know if you want to add badges, screenshots, or extra customization!
